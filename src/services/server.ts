@@ -13,7 +13,7 @@ export const makeServer = () => {
             title: "Internet",
             type: "withdraw",
             category: "Contas",
-            value: -75.9,
+            value: 75.9,
             createdAt: new Date("2022-04-04 10:15:45"),
           },
           {
@@ -21,7 +21,7 @@ export const makeServer = () => {
             title: "Enel",
             type: "withdraw",
             category: "Contas",
-            value: -132.8,
+            value: 132.8,
             createdAt: new Date("2022-04-07 13:28:27"),
           },
           {
